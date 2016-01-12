@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1452618403 source:c:\users\fares\documents\c++\space\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"main.hpp"
+	"space.hpp"
+
+1452618403 c:\users\fares\documents\c++\space\main.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1452618491 c:\users\fares\documents\c++\space\space.hpp
+	"main.hpp"
+
+1452618481 source:c:\users\fares\documents\c++\space\space.cpp
+	<GL/glut.h>
+	"space.hpp"
+
